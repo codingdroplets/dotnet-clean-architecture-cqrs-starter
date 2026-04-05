@@ -32,7 +32,7 @@ Prefer a one-time tip? [Buy us a coffee ☕](https://buymeacoffee.com/codingdrop
 ┌─────────────────────────────────────────────────────────────────────┐
 │                            API Layer                                │
 │  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────────────┐  │
-│  │ Controllers  │  │ Middleware  │  │ Program.cs (Wiring)        │  │
+│  │ Controllers │  │ Middleware  │  │ Program.cs (Wiring)         │  │
 │  └─────────────┘  └─────────────┘  └─────────────────────────────┘  │
 │         │                   │                     │                 │
 │         └───────────────────┼─────────────────────┘                 │
