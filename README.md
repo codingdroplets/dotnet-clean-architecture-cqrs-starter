@@ -14,7 +14,7 @@ This repo is a **free starter template** — it gives you the full project struc
 
 The **complete, production-ready version** with all business logic, pipeline behaviors, domain invariants, FluentValidation rules, global error handling, and **29 passing tests** is available exclusively on Patreon.
 
-👉 **[Get the full source code on Patreon](https://www.patreon.com/posts/152905861)**
+👉 **[Get the full Source Code on Patreon](https://www.patreon.com/posts/152905861)**
 
 Prefer a one-time tip? [Buy us a coffee ☕](https://buymeacoffee.com/codingdroplets)
 
