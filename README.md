@@ -40,7 +40,7 @@ Prefer a one-time tip? [Buy us a coffee ☕](https://buymeacoffee.com/codingdrop
 │  ┌──────────────────────────▼───────────────────────────────────┐   │
 │  │              Application Layer                               │   │
 │  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────────────┐   │   │
-│  │  │   Commands   │  │   Queries    │  │  Behaviors        │   │   │
+│  │  │   Commands  │  │   Queries   │  │  Behaviors          │   │   │
 │  │  │  (C Q R)    │  │  (C Q R)    │  │  (Pipeline)         │   │   │
 │  │  └─────────────┘  └─────────────┘  └─────────────────────┘   │   │
 │  │         │                   │                     │          │   │
